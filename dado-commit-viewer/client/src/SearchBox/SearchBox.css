@@ -1,0 +1,26 @@
+
+body {
+  font-family: Arial;
+}
+
+.button1 {
+  background-color: orangered;
+  color: white;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.input1 {
+  padding: 10px;
+  font-size: 17px;
+  float: center;
+  width: 50%;
+  background: rgb(114, 127, 131);
+  border-radius: 12px;
+  background: url("https://img.icons8.com/material-sharp/24/000000/search.png");
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding-left: 4%;
+}

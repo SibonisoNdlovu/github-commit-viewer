@@ -1,0 +1,26 @@
+#container {
+    width: 100%;
+    margin: auto;
+    float: left;
+    padding-bottom: 2%;
+}
+#name {
+    width: 20%;
+    float: left;
+    height: 50px;
+	padding-left: 5%;
+}
+#message {
+    width: 60%;
+    float: left;
+    height: 50px;
+	align-content:stretch;
+    padding-left: 5%;
+}
+#date {
+    width: 20%;
+    float: right;
+    height: 50px;
+	align-content:stretch;
+    padding-left: 1%;
+}
