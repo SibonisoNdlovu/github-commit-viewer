@@ -1,8 +1,3 @@
-Thank you very much for the opportunity to interview with DADO.
-
-I enjoyed the assessment a lot. I unfortunately had limited time to do it as I was moving houses and spent sometime
-without internet but I managed to put in some work.
-
 To run the application please follow the following steps.
 
 # CD Client and run `NPM INSTALL`
