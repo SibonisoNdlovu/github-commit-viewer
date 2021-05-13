@@ -1,9 +1,9 @@
 To run the application please follow the following steps.
 
-# CD Client and run `NPM INSTALL`
-# CD Server and run `NPM INSTALL`
+# CD Client and run `npm install`
+# CD Server and run `npm install`
 
-# CD Client and run `NPM RUN START`   ---  Please not this will concurrently run server and client.
+# CD Client and run `npm run start`   ---  Please not this will concurrently run server and client.
 
 # Getting Started with Create React App
 
